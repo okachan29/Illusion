@@ -1,11 +1,10 @@
 Illusion
 ---
 This is a python code that you can experience illusion of the circle.
-You may feel strange to see it.
 
 Below is the capture.
-You will feel strange that the size of two circle seems changing.
-Although only the circles arround them are moving and they are not.
+You will feel strange that the size of two circle seems deffferent.
+Although only the circles arround them are moving and the size is same for all the time.
 
 You can stop the movement by pressing the mouse button and check if its true.
 
